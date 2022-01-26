@@ -8,6 +8,6 @@ public class HelloWorldControllerTest {
 
     @Test
     public void testSayHello() {
-        assertEquals("物流公司测试1", new HelloWorldController().sayHello());
+        assertEquals("物流公司测试moins1", new HelloWorldController().sayHello());
     }
 }
